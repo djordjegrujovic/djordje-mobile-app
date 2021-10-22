@@ -13,8 +13,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # State management package
+  provider: ^6.0.0
+  # Storage for simple data
+  shared_preferences: ^2.0.7
 
-
+  # Support for SVG icon format
+  flutter_svg: ^0.22.0
+  # Native iOS package
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
