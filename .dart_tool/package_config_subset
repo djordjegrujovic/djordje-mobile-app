@@ -1,3 +1,7 @@
+flutter_localization
+2.12
+file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/git/flutter_localization-ba7d70a754111fe39cf69acfa8058d759bc18898/
+file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/git/flutter_localization-ba7d70a754111fe39cf69acfa8058d759bc18898/lib/
 async
 2.12
 file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.1/
@@ -26,6 +30,10 @@ cupertino_icons
 2.12
 file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3/
 file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3/lib/
+devicelocale
+2.12
+file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/devicelocale-0.4.3/
+file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/devicelocale-0.4.3/lib/
 fake_async
 2.12
 file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/

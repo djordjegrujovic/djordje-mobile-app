@@ -44,6 +44,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "devicelocale",
+      "rootUri": "file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/devicelocale-0.4.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0",
       "packageUri": "lib/",
@@ -70,6 +76,12 @@
     {
       "name": "flutter_lints",
       "rootUri": "file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_localization",
+      "rootUri": "file:///Users/djordjegrujovic/Developer/flutter/.pub-cache/git/flutter_localization-ba7d70a754111fe39cf69acfa8058d759bc18898/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -302,7 +314,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-10-22T08:21:49.562352Z",
+  "generated": "2021-10-22T08:44:29.112365Z",
   "generator": "pub",
   "generatorVersion": "2.14.2"
 }

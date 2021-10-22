@@ -25,6 +25,15 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.light,
       ),
 
+      // localizationsDelegates: [
+      //   GlobalMaterialLocalizations.delegate,
+      //   GlobalWidgetsLocalizations.delegate,
+      //   GlobalCupertinoLocalizations.delegate,
+      // ],
+      supportedLocales: const [
+        Locale('de', 'DE'),
+      ],
+
       /// Content
       home: const Scaffold(
         body: Center(
