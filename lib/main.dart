@@ -25,11 +25,11 @@ class MyApp extends StatelessWidget {
         brightness: Brightness.light,
       ),
 
-      // localizationsDelegates: [
-      //   GlobalMaterialLocalizations.delegate,
-      //   GlobalWidgetsLocalizations.delegate,
-      //   GlobalCupertinoLocalizations.delegate,
-      // ],
+      localizationsDelegates: [
+        // GlobalMaterialLocalizations.delegate,
+        // GlobalWidgetsLocalizations.delegate,
+        // GlobalCupertinoLocalizations.delegate,
+      ],
       supportedLocales: const [
         Locale('de', 'DE'),
       ],
